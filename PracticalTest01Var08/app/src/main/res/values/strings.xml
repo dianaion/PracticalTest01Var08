@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest01Var08</string>
+    <string name="set">Set</string>
+    <string name="sum">Sum</string>
+    <string name="prod">Prod</string>
+    <string name="title_activity_practical_test01_secondary">Secondary Activity</string>
+</resources>
